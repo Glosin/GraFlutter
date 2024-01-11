@@ -1,0 +1,218 @@
+{
+  "1001": {
+    "text": "The adventurer, lost in the Whispering Woods, stumbles upon an eerie clearing. An ancient altar, adorned with cryptic symbols, catches their eye. Suddenly, a spectral figure materializes—Elandriel, a mysterious elven spirit. The woods are cursed, and the corruption is spreading. Elandriel urges the adventurer to cleanse the land and discover the source.",
+    "options": {
+      "1": {
+        "title": "Investigate the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "2": {
+        "title": "Navigate the Woods",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Dexterity",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "3": {
+        "title": "Engage in Conversation with Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "4": {
+        "title": "Combat Encounters",
+        "action": {
+          "name": "combatEncounters",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "5": {
+        "title": "Seek Guidance from Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "6": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "7": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      },
+      "8": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      }
+    }
+  },
+  "1002": {
+    "text": "Guided by the adventurer's keen intellect, the deciphered symbols on the altar reveal ancient secrets. Elandriel, impressed with the discovery, shares additional knowledge about the curse. The symbols point to an enchanted grove deeper within the Whispering Woods, where the corrupting force is concentrated. Thaldrin, an ancient treant, resides there and may hold crucial information about the malevolent source.",
+    "options": {
+      "1": {
+        "title": "Investigate the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "2": {
+        "title": "Navigate the Woods",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Dexterity",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "3": {
+        "title": "Engage in Conversation with Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "4": {
+        "title": "Combat Encounters",
+        "action": {
+          "name": "combatEncounters",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "5": {
+        "title": "Seek Guidance from Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "6": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "7": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      },
+      "8": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      }
+    }
+  },
+  "1003": {
+    "text": "Despite the adventurer's effort, deciphering the symbols proves challenging. Elandriel, sensing the struggle, offers some guidance, but the information gathered is limited. The altar remains cryptic, leaving some mysteries unsolved. The corruption in the Whispering Woods intensifies, prompting a more immediate need to navigate through the darkened forest.",
+    "options": {
+      "1": {
+        "title": "Investigate the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "2": {
+        "title": "Navigate the Woods",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Dexterity",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "3": {
+        "title": "Engage in Conversation with Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "4": {
+        "title": "Combat Encounters",
+        "action": {
+          "name": "combatEncounters",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "5": {
+        "title": "Seek Guidance from Elandriel",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Charisma",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "6": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "diceRoll",
+          "statsRequired": "Intelligence",
+          "success": "1002",
+          "failed": "1002"
+        }
+      },
+      "7": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      },
+      "8": {
+        "title": "Attempt a Ritual at the Altar",
+        "action": {
+          "name": "",
+          "success": "1002"
+        }
+      }
+    }
+  }
+}

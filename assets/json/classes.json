@@ -1,0 +1,14 @@
+{
+  "mage": {
+    "image": "assets/images/gandalf.jpg",
+    "description": "The Arcanist is a practitioner of the arcane arts, wielding magical forces to cast spells and manipulate reality. They are skilled in the use of arcane knowledge and can specialize in various schools of magic, such as evocation, enchantment, or divination. Arcanists are often sought after for their ability to unleash powerful spells in support or in direct confrontation."
+  },
+  "warrior": {
+    "image": "assets/images/aragorn.jpg",
+    "description": "A skilled warrior for hire, the Sellsword is a versatile fighter with proficiency in various weapons and armor. Whether wielding a sword and shield or a two-handed weapon, Sellswords excel in close combat. They are often employed to protect, conquer, or enforce the will of those who can afford their services."
+  },
+  "archer": {
+    "image": "assets/images/legolas.jpg",
+    "description": "Masters of the bow and adept at surviving in the wilderness, Rangers are skilled hunters and trackers. They excel at ranged combat, using bows to pick off enemies from a distance. Rangers are also adept at navigating through various terrains, making them valuable scouts and explorers."
+  }
+}
